@@ -1,0 +1,18 @@
+This is a pathfinding visualizer implemented using Dijkstra's Algorithm.
+
+Setup:
+
+- Install requirements from the requirements.txt file
+- Run `pathfinder.py` using the terminal or IDE of your choice
+
+Rules:
+
+- The starting position is the first cell (0, 0)
+- Using the mouse, hold/press the left click button to create a wall
+- Set destination by pressing the right mouse button
+- To start the visualization, press any key on the keyboard
+
+Citations:
+
+- https://youtu.be/QNpUN8gBeLY?si=SdJU-9tFmKLj2fbc
+- https://www.pygame.org/docs/
